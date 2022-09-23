@@ -139,6 +139,7 @@ alias fsharpc='fsharpc -r ~/.fsharp/FsLexYacc.Runtime.dll'
 alias gignore='git status --porcelain | grep '^??' | cut -c4- >> .gitignore'
 alias p='python3'
 alias open='nautilus'
+alias gbash='cd ~/Git/Bash'
 
 #School dir shortcuts
 alias prdat='cd ~/Git/PRDAT_Assignments'
